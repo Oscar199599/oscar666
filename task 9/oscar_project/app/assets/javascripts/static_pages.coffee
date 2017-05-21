@@ -1,0 +1,1 @@
+<%= image_tag("bike.jpeg", class: "img-responsive") %>
